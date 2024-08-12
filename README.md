@@ -4,7 +4,15 @@ Welcome to the SwiftUI Blinking Eye Animation project! This project showcases a 
 
 ## Showcase
 
-## Eye States / Single Eye Blinking / Multiple Eyes Blinking
+## Blinking Eye States 
+
+Animation is achieved by quickly iterating through these states
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/kwuh91/Animated-SwiftUI-EyeBlinking/master/extra/BlinkingEyeStatesDisplay.png" style="width: 20%; alt="SingleEyeBlinking">
+</div>
+
+## Single Eye Blinking / Multiple Eyes Blinking
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/kwuh91/Animated-SwiftUI-EyeBlinking/master/extra/SingleEyeBlinking.gif" style="width: 65%; alt="SingleEyeBlinking">
@@ -18,6 +26,11 @@ You can fully customize the appearance of the eyes, their quantity, size, e.t.c.
 <div align="center">
   <img src="https://raw.githubusercontent.com/kwuh91/Animated-SwiftUI-EyeBlinking/master/extra/MultipleEyesBlinkingVisage.gif" style="width: 65%; alt="MultipleEyesBlinkingVisage">
   <img src="https://raw.githubusercontent.com/kwuh91/Animated-SwiftUI-EyeBlinking/master/extra/MultipleEyesBlinkingRed.gif" style="width: 65%; alt="MultipleEyesBlinkingRed">
+</div>
+
+<br />
+
+<div align="center">
   <img src="https://raw.githubusercontent.com/kwuh91/Animated-SwiftUI-EyeBlinking/master/extra/MultipleEyesBlinkingNoPupil.gif" style="width: 65%; alt="MultipleEyesBlinkingNoPupil">
   <img src="https://raw.githubusercontent.com/kwuh91/Animated-SwiftUI-EyeBlinking/master/extra/MultipleEyesBlinkingBlue.gif" style="width: 65%; alt="MultipleEyesBlinkingBlue">
 </div>
