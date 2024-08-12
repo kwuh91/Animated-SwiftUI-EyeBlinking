@@ -41,7 +41,7 @@ To get started with the project, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/Animated-SwiftUI-EyeBlinking.git
+    git clone https://github.com/kwuh91/Animated-SwiftUI-EyeBlinking.git
     ```
 
 2. Navigate to the project directory:
