@@ -7,7 +7,7 @@ Welcome to the SwiftUI Blinking Eye Animation project! This project showcases a 
 ## Eye States / Single Eye Blinking / Multiple Eyes Blinking
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/kwuh91/Animated-SwiftUI-EyeBlinking/main/extra/SingleEyeBlinking.gif" style="width: 65%; alt="SingleEyeBlinking">
+  <img src="https://raw.githubusercontent.com/kwuh91/Animated-SwiftUI-EyeBlinking/master/extra/SingleEyeBlinking.gif" style="width: 65%; alt="SingleEyeBlinking">
   <img src="https://raw.githubusercontent.com/kwuh91/Animated-SwiftUI-EyeBlinking/master/extra/MultipleEyesBlinkingDefault.gif" style="width: 65%; alt="MultipleEyesBlinkingDefault">
 </div>
 
