@@ -7,9 +7,9 @@ Welcome to the SwiftUI Blinking Eye Animation project! This project showcases a 
 ## Eye States / Single Eye Blinking / Multiple Eyes Blinking
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/kwuh91/Animated-SwiftUI-Background/master/extra/BlinkingEyeStatesDisplay.png" style="width: 65%; alt="BlinkingEyeStatesDisplay">
-  <img src="https://raw.githubusercontent.com/kwuh91/Animated-SwiftUI-Background/master/extra/SingleEyeBlinking.gif" style="width: 65%; alt="SingleEyeBlinking">
-  <img src="https://raw.githubusercontent.com/kwuh91/Animated-SwiftUI-Background/master/extra/MultipleEyesBlinkingDefault.gif" style="width: 65%; alt="MultipleEyesBlinkingDefault">
+  <img src="https://raw.githubusercontent.com/kwuh91/Animated-SwiftUI-EyeBlinking/master/extra/BlinkingEyeStatesDisplay.png" style="width: 65%; alt="BlinkingEyeStatesDisplay">
+  <img src="https://raw.githubusercontent.com/kwuh91/Animated-SwiftUI-EyeBlinking/master/extra/SingleEyeBlinking.gif" style="width: 65%; alt="SingleEyeBlinking">
+  <img src="https://raw.githubusercontent.com/kwuh91/Animated-SwiftUI-EyeBlinking/master/extra/MultipleEyesBlinkingDefault.gif" style="width: 65%; alt="MultipleEyesBlinkingDefault">
 </div>
 
 ## Variants
@@ -17,10 +17,10 @@ Welcome to the SwiftUI Blinking Eye Animation project! This project showcases a 
 You can fully customize the appearance of the eyes, their quantity, size, e.t.c.
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/kwuh91/Animated-SwiftUI-Background/master/extra/MultipleEyesBlinkingVisage.gif" style="width: 65%; alt="MultipleEyesBlinkingVisage">
-  <img src="https://raw.githubusercontent.com/kwuh91/Animated-SwiftUI-Background/master/extra/MultipleEyesBlinkingRed.gif" style="width: 65%; alt="MultipleEyesBlinkingRed">
-  <img src="https://raw.githubusercontent.com/kwuh91/Animated-SwiftUI-Background/master/extra/MultipleEyesBlinkingNoPupil.gif" style="width: 65%; alt="MultipleEyesBlinkingNoPupil">
-  <img src="https://raw.githubusercontent.com/kwuh91/Animated-SwiftUI-Background/master/extra/MultipleEyesBlinkingBlue.gif" style="width: 65%; alt="MultipleEyesBlinkingBlue">
+  <img src="https://raw.githubusercontent.com/kwuh91/Animated-SwiftUI-EyeBlinking/master/extra/MultipleEyesBlinkingVisage.gif" style="width: 65%; alt="MultipleEyesBlinkingVisage">
+  <img src="https://raw.githubusercontent.com/kwuh91/Animated-SwiftUI-EyeBlinking/master/extra/MultipleEyesBlinkingRed.gif" style="width: 65%; alt="MultipleEyesBlinkingRed">
+  <img src="https://raw.githubusercontent.com/kwuh91/Animated-SwiftUI-EyeBlinking/master/extra/MultipleEyesBlinkingNoPupil.gif" style="width: 65%; alt="MultipleEyesBlinkingNoPupil">
+  <img src="https://raw.githubusercontent.com/kwuh91/Animated-SwiftUI-EyeBlinking/master/extra/MultipleEyesBlinkingBlue.gif" style="width: 65%; alt="MultipleEyesBlinkingBlue">
 </div>
 
 ## Installation
