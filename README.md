@@ -6,7 +6,7 @@ Welcome to the SwiftUI Blinking Eye Animation project! This project showcases a 
 
 ## Blinking Eye States 
 
-Animation is achieved by quickly iterating through these states
+Animation is achieved by quickly iterating through these states.
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/kwuh91/Animated-SwiftUI-EyeBlinking/master/extra/BlinkingEyeStatesDisplay.png" style="width: 20%; alt="SingleEyeBlinking">
